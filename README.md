@@ -1,0 +1,1 @@
+This python script is used to download and save PDF files from the url mentioned in the json file. Or we can make requst directly to the JSON API url and the response will be processed to download the PDF.
